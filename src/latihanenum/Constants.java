@@ -11,6 +11,7 @@ package latihanenum;
  */
 public class Constants {
     public final static Double PHI = 3.14;
+    public final static Double V = 100.0;
     
     public final static String ADMIN = "admin";
     public final static String BASIC = "user";
